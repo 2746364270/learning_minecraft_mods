@@ -1,1 +1,2 @@
 # learning_minecraft_mods
+这是我个人用来熟练GitHub的仓库，我会在这个仓库里放一些简易的minecraft模组
